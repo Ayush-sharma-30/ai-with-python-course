@@ -1,0 +1,17 @@
+,Company,Job,Degree,salary_more_than_100k
+0,google,Sales executive,bachelors,0
+1,google,Sales executive,masters,0
+2,google,Business manager,bachelors,1
+3,google,Business manager,masters,1
+4,google,Computer programmer,bachelors,0
+5,google,Computer programmer,masters,1
+6,Abc pharma,Sales executive,masters,0
+7,Abc pharma,Computer programmer,bachelors,0
+8,Abc pharma,Business manager,bachelors,0
+9,Abc pharma,Business manager,masters,1
+10,Facebook,Sales executive,bachelors,1
+11,Facebook,Sales executive,masters,1
+12,Facebook,Business manager,bachelors,1
+13,Facebook,Business manager,masters,1
+14,Facebook,Computer programmer,bachelors,1
+15,Facebook,Computer programmer,masters,1
